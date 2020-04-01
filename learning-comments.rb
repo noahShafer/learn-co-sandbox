@@ -1,5 +1,5 @@
 # Don't do this:
-puts ( 1 #+ 1)
+# puts ( 1 #+ 1)
 
 # Perform a constant expression evaluation
 3
